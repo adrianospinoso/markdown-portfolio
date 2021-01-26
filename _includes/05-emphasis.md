@@ -1,0 +1,4 @@
+- **Java**
+- **OOP**
+- _Javascript_
+- _Databases like **Oracle**, **MySql**_
